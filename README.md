@@ -1,5 +1,5 @@
 ### blackjack
-##### Quite and open to improve BlackJack game/Phyton
+#### Quite and open to improve BlackJack game/Phyton
 
 
 
