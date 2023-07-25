@@ -1,6 +1,6 @@
 import random
-from art import logo
-from replit import clear
+# from art import logo
+# from replit import clear
 def deal_card():
   cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
   card = random.choice(cards)
@@ -34,7 +34,7 @@ def compare(user_score,computer_score):
 
 
 def blackjack_game():
-  print(logo)
+  # print(logo)
   blackjack_continue = True
   computer_hand=[]
   user_hand=[]
